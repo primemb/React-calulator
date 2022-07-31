@@ -1,0 +1,17 @@
+button {
+  border: none;
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 50%;
+  outline: none;
+}
+
+.zero {
+  grid-column: span 2;
+  border-radius: 30px;
+  text-align: left;
+  font-size: 32px;
+  padding-left: 30px;
+}
